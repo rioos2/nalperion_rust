@@ -18,7 +18,6 @@ fn main() {
     let client = licensor::Client::new(LicensesCfg::default());
     let result = client.create_trial_or_verify();
     match result {
-        // return Ok when license is trial or acivated
         Ok(()) => println!("You have the valid License"),
         Err(err) => println!("{}", format!("{}", err)),
     }
