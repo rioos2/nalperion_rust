@@ -2,6 +2,8 @@
 
 The document provides information on *Intergration to Nalperion for licensing using Rust Lang*
 
+This is reference code to help you operate with nalperion, but the way you use it in your software to make the entitlement work needs to be solutioned by you.
+
 # Rust Lang
 
 Tested on [rust 1.24.1](https://rust-lang.org) 
