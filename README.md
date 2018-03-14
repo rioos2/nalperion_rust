@@ -8,8 +8,8 @@ Tested on [rust 1.24.1](https://rust-lang.org) and [Rio/OS Aventura](http://rio.
 
 # Reference
 
-[Nalperion integration samples (C/C++), Java](https://naldoc.atlassian.net/wiki/spaces/NND/pages/426012/Application+Integration)
-[Nalperion fat client API](https://naldoc.atlassian.net/wiki/spaces/NND/pages/426049/Developers+API+Latest)
+- [Nalperion integration samples (C/C++), Java](https://naldoc.atlassian.net/wiki/spaces/NND/pages/426012/Application+Integration)
+- [Nalperion fat client API](https://naldoc.atlassian.net/wiki/spaces/NND/pages/426049/Developers+API+Latest)
 
 # nalperion.rs 
 
