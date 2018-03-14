@@ -1,0 +1,14 @@
+[package]
+name = "rioos_entitlement"
+version = "0.0.0"
+authors = ["Vinothini Veerasundaram <vino.veerasundaram@rio.company>", "Kishorekumar Neelamegam <kishore.neelamegam@rio.company>"]
+description = "The entitlement library for Rio/OS. This library is responsible for verifying the license using Nalperion"
+
+[dependencies]
+serde = "*"
+serde_derive = "*"
+libloading = "0.5.0"
+handlebars = { version = "*", default-features = false }
+serde_json = "1.0.10"
+failure = { git = "https://github.com/withoutboats/failure.git" }
+rand = "*"
