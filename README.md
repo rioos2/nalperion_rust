@@ -4,7 +4,10 @@ The document provides information on *Intergration to Nalperion for licensing us
 
 # Rust Lang
 
-Tested on [rust 1.24.1](https://rust-lang.org) and [Rio/OS Aventura](http://rio.digital)/Any linux
+Tested on [rust 1.24.1](https://rust-lang.org) 
+
+- [Rio/OS Aventura](http://rio.digital)
+- Any linux
 
 # Reference
 
@@ -19,7 +22,7 @@ This code assumes that you have `ShaferFileChk.so` downloaded and extracted, ava
 
 This method does 
 
-- [ ] NalpLibOpen by using the 
+- [ ] NalpLibOpen by using the .so file provided
 - [ ] NSLValidateLibrary using CUSTOMER_ID, PRODUCT_D
 - [ ] NSLGetLicense 
 - [ ] NalpLibClose
