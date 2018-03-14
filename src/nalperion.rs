@@ -12,7 +12,8 @@ use failure::SyncFailure;
 use config;
 use lib_load;
 
-const ROOT_PATH: &'static str = "/home/vinov/rioos/home/license/";
+/// path where the .so file stored
+const ROOT_PATH: &'static str = "../tools/"; 
 const NALPERION_SHAFER_FILECHK_XML_TEMPLATE: &'static str = include_str!("../tools/shafer_filechk.hbs");
 
 /// These are the security values stamped into your library.
