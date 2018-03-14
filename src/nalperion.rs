@@ -13,7 +13,7 @@ use config;
 use lib_load;
 
 /// path where the .so file stored
-const ROOT_PATH: &'static str = "../tools/"; 
+const ROOT_PATH: &'static str = "../../tools/license/";
 const NALPERION_SHAFER_FILECHK_XML_TEMPLATE: &'static str = include_str!("../tools/shafer_filechk.hbs");
 
 /// These are the security values stamped into your library.
