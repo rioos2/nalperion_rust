@@ -1,3 +1,5 @@
+# For lastest updates: Go to [gitlab.com/rioadvancement/nalperion-rust](https://gitlab.com/rioadvancement/nalperion-rust.git).
+
 # nalperion_rust
 
 The document provides information on *Intergration to Nalperion for licensing using Rust Lang*
