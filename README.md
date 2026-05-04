@@ -1,5 +1,4 @@
-# For lastest updates: Go to [gitlab.com/rioadvancement/nalperion-rust](https://gitlab.com/rioadvancement/nalperion-rust.git).
-
+# For lastest updates: Go to [megam.io](https://megam.io)
 # nalperion_rust
 
 The document provides information on *Intergration to Nalperion for licensing using Rust Lang*
@@ -10,7 +9,7 @@ This is reference code to help you operate with nalperion, but the way you use i
 
 Tested on [rust 1.24.1](https://rust-lang.org) 
 
-- [Rio/OS Aventura](http://rio.digital)
+- [Rio/OS Aventura](https://megam.io)
 - Any linux
 
 # Reference
